@@ -1,4 +1,4 @@
-# d_app
+# Coin Sentinel
 
 A new Flutter project.
 
